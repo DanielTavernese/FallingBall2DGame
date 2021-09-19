@@ -1,0 +1,9 @@
+[
+	{
+	 "graphic": ca.dantav.game.gfx.impl.DebugGraphics
+	},
+	
+	{
+	 "graphic": ca.dantav.game.gfx.impl.EntityGraphics
+	}
+]

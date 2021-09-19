@@ -1,0 +1,9 @@
+[
+	{
+	 "update": ca.dantav.game.entity.EntityUpdate
+	},
+	
+	{
+	 "update": ca.dantav.game.entity.BallUpdate
+	}
+]
